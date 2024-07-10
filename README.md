@@ -2,9 +2,6 @@
 
 ## CodSoft Internship Projects
 
-A self-made project for an online meal ordering homepage built with HTML and CSS.
-
-
 ## Technologies Used
 
 - HTML
