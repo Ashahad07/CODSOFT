@@ -15,7 +15,7 @@ A self-made project for an online meal ordering homepage built with HTML and CSS
 
 [Calculator](https://ashahad07.github.io/CODSOFT/Calculator)
 
-[Calculator](https://ashahad07.github.io/CODSOFT/Portflio)
+[Protfolio](https://ashahad07.github.io/CODSOFT/Portflio)
 
 ## Installation
 
